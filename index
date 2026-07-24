@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sistema Nacional de Consulta</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+
+    <header class="encabezado">
+
+        <div class="container">
+
+            <div class="d-flex align-items-center">
+
+                <img src="img/logo.png" class="logo" alt="Logo">
+
+                <div class="ms-4">
+                    <h2>Sistema Nacional de Consulta</h2>
+                    <p>Certificación de Terminación de Estudios</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <main class="container py-5">
+
+        <div class="card certificado">
+
+            <h2 class="titulo">Consulta de Certificado</h2>
+
+            <div class="row">
+
+                <div class="col-12 col-lg-6">
+
+                    <p><span>Nombre:</span> Jose Alberto Botello Garcia</p>
+                    <p><span>CURP:</span> BOGA940216HMCTRLO0</p>
+                    <p><span>Matrícula:</span> 2033258692</p>
+                    <p><span>Institución:</span> Servicio Nacional de Preparatoria Abierta</p>
+                    <p><span>CCT:</span> 08EBH0002C</p>
+                    <p><span>Plan:</span> Prepa en Línea SEP</p>
+
+                </div>
+
+                <div class="col-12 col-lg-6">
+
+                    <p><span>Promedio:</span> 9.5</p>
+                    <p><span>Créditos:</span> 240</p>
+                    <p><span>Documento:</span> Certificación</p>
+                    <p><span>Estatus:</span> Registrado</p>
+                    <p><span>Folio:</span> ae0990c-32ac...</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <h5>Enlaces</h5>
+                    <a href="#">Datos</a>
+                    <a href="#">Transparencia</a>
+                    <a href="#">Denuncias</a>
+                </div>
+
+                <div class="col-md-4">
+                    <h5>Información</h5>
+                    <p>Sistema para consulta de certificados.</p>
+                </div>
+
+                <div class="col-md-4">
+                    <h5>Síguenos</h5>
+
+                    <i class="bi bi-facebook"></i>
+                    <i class="bi bi-twitter-x"></i>
+                    <i class="bi bi-instagram"></i>
+                    <i class="bi bi-youtube"></i>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
